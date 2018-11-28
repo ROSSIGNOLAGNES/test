@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "BOUYGUES LINKCITY",
+        "DESTINATION": "BUREAUX",
+        "NOM DE L'OPERATION": "BIOTOP",
+        "PROGRAMMATION": "30 000 m²"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0792832374572754,
+          50.63122554789211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "BOUYGUES LINKCITY",
+        "DESTINATION": "MIXTE logements, bureaux, commerces, hôtel, école",
+        "NOM DE L'OPERATION": "LA MAILLERIE",
+        "PROGRAMMATION": "10 000 m² commerce, 16 000 m² de bureaux, 711 logements, 1 hôtel, 2 résidences de services",
+        "ORIGINE DU FONCIER": "FRICHE 3 SUISSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1438493728637695,
+          50.66946994115307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "KAUFMAN & BROAD",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "SO HOME",
+        "PROGRAMMATION": "34 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0599391460418697,
+          50.61363710423228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "KAUFMAN & BROAD",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "LES JARDINS DE MARGUERITE",
+        "ORIGINE DU FONCIER": "ANCIEN HOPITAL MARGUERITE DE FLANDRE",
+        "PROGRAMMATION": "64 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0247002840042114,
+          50.54486749294226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NOM DE L'OPERATION": "EKLA BUSINESS & LIFE",
+        "PROMOTEUR": "ICADE",
+        "PROGRAMMATION": "25 850 m² soit : 14 815 m² bureaux 866 m² commerces, 127 logements ",
+        "DESTINATION": "MIXTE logements, bureaux, commerces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.082308769226074,
+          50.6349955885127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "VINCI IMMOBILIER",
+        "NOM DE L'OPERATION": "TRIPTIC",
+        "PROGRAMMATION": "5700 m² ",
+        "DESTINATION": "BUREAUX",
+        "ORIGINE DU FONCIER": "ZAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.020070791244507,
+          50.63352571694018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DESTINATION": "BUREAUX",
+        "NOM DE L'OPERATION": "TRIPOLIS",
+        "PROMOTEUR": "PARTENORD (siège)",
+        "PROGRAMMATION": "14 723 m²",
+        "ORIGINE DU FONCIER": "ZAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.084111213684082,
+          50.62218710748563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "PROJECTIM",
+        "DESTINATION": "LOGEMENTS",
+        "PROGRAMMATION": "169 appartements, 15 lots libres",
+        "ORIGINE DU FONCIER": "FRICHE MONTALEMBERT",
+        "NOM DE L'OPERATION": "DOMAINE DE MONTALEMBERT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1586015224456783,
+          50.6249301310868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "NEXITY",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "104 FAUBOURG",
+        "PROGRAMMATION": "20 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0826950073242188,
+          50.64099708708476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "NEXITY",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "CONNEXIO",
+        "PROGRAMMATION": "50 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.092254400253296,
+          50.62667932064676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "EDOUARD DENIS",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "PARENTHESE VERTE",
+        "PROGRAMMATION": "78 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.056151866912842,
+          50.61472636300891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "NEXITY",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "AXESSIO",
+        "PROGRAMMATION": "41 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.092554807662964,
+          50.626692932761706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "EDOUARD DENIS",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "PAVILLON DU JARDIN DES PLANTES",
+        "PROGRAMMATION": "66 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0738329887390132,
+          50.61339201753148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "NEXITY",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "LILLO VERT",
+        "PROGRAMMATION": "8 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0762121081352234,
+          50.612963112732466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "EDOUARD DENIS",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "LILLEVEN",
+        "PROGRAMMATION": "34 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0627018213272095,
+          50.613249049699654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "EDOUARD DENIS",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "BROADSTAIRS",
+        "PROGRAMMATION": "20 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0403053760528564,
+          50.583624916866526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "EDOUARD DENIS",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "LES JARDINS SAINT VENANT",
+        "PROGRAMMATION": "19 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0890142917633057,
+          50.599619156938545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "NEXITY",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "LE DOMAINE ROSEA",
+        "PROGRAMMATION": "11 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9566204547882076,
+          50.6137051836448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "NEXITY",
+        "DESTINATION": "LOGEMENTS INVESTISSEURS",
+        "NOM DE L'OPERATION": "RESIDENCE TIME",
+        "PROGRAMMATION": "94 appartements étudiants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.138517141342163,
+          50.620730449264485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROMOTEUR": "NEXITY",
+        "DESTINATION": "LOGEMENTS",
+        "NOM DE L'OPERATION": "RIVE&SENS",
+        "PROGRAMMATION": "34 appartements"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9958343505859375,
+          50.71305041522699
+        ]
+      }
+    }
+  ]
+}
